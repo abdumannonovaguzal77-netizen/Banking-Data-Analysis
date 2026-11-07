@@ -35,4 +35,4 @@ This project focuses on analyzing banking data and identifying potentially fraud
 6. Transactions from different countries within 10 minutes.
 
 ## Author
-Aspiring Data Analys
+Aspiring Data Analyst
